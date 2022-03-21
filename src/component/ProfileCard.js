@@ -9,7 +9,7 @@ function ProfileCard({writer}) {
     <h3>{writer.name}</h3>
     <p>{writer.email}</p>
     <p>{writer.phone}</p>
-    <button className='actionBtn'Read Bio></button>
+    <button className='actionBtn' onClick={this.handleClick}s>Read Bio</button>
 
     </div>
  
