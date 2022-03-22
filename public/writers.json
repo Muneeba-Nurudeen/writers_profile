@@ -2,7 +2,7 @@
     "id":1,
     "name":"Audre Lorde",
     "avatar":"audre_lorde",
-    "email":"audrelorde@gmail.com",
+    "email":"audrelorde5@gmail.com",
     "phone":"1-773-454-3645",
     "bio":"hjck sijo kjn hfiitj jj  kjn jdd vgnfn jua si uugf jib bad hfnf jfj fg fmf"
 
@@ -11,8 +11,8 @@
 {
     "id":1,
     "name":"Audre Lorde",
-    "avatar":"audre_lorde",
-    "email":"audrelorde@gmail.com",
+    "avatar":"belle_hooks",
+    "email":"audrelorde5@gmail.com",
     "phone":"1-773-454-3645",
     "bio":"hjck sijo kjn hfiitj jj  kjn jdd vgnfn jua si uugf jib bad hfnf jfj fg fmf"
 
@@ -21,7 +21,31 @@
 {
     "id":1,
     "name":"Audre Lorde",
-    "avatar":"audre_lorde",
+    "avatar":"du_bois",
+    "email":"audrelorde5@gmail.com",
+    "phone":"1-773-454-3645",
+    "bio":"hjck sijo kjn hfiitj jj  kjn jdd vgnfn jua si uugf jib bad hfnf jfj fg fmf"
+
+},
+
+
+{
+    "id":1,
+    "name":"Audre Lorde",
+    "avatar":"james_baldwin",
+    "email":"audrelorde@gmail.com",
+    "phone":"1-773-454-3645",
+    "bio":"hjck sijo kjn hfiitj jj  kjn jdd vgnfn jua si uugf jib bad hfnf jfj fg fmf"
+
+},
+
+
+
+
+{
+    "id":1,
+    "name":"Audre Lorde",
+    "avatar":"lanston_hughes",
     "email":"audrelorde@gmail.com",
     "phone":"1-773-454-3645",
     "bio":"hjck sijo kjn hfiitj jj  kjn jdd vgnfn jua si uugf jib bad hfnf jfj fg fmf"
@@ -32,27 +56,12 @@
 {
     "id":1,
     "name":"Audre Lorde",
-    "avatar":"audre_lorde",
-    "email":"audrelorde@gmail.com",
-    "phone":"1-773-454-3645",
-    "bio":"hjck sijo kjn hfiitj jj  kjn jdd vgnfn jua si uugf jib bad hfnf jfj fg fmf"
-
-},
-
-
-
-
-{
-    "id":1,
-    "name":"Audre Lorde",
-    "avatar":"audre_lorde",
+    "avatar":"maya_angelou",
     "email":"audrelorde@gmail.com",
     "phone":"1-773-454-3645",
     "bio":"hjck sijo kjn hfiitj jj  kjn jdd vgnfn jua si uugf jib bad hfnf jfj fg fmf"
 
 }
-
-
 
 
 
