@@ -1,9 +1,19 @@
 import React from 'react'
 
+import{useState} from "react"
 function ProfileCard({writer}) {
+const [showBio, setShowBio] = useState(false);
+
+const handleClick = (bioData) =>{
+setShowBio(!showBio);
+};
+
   return (
-    <div className='cards'>
-    <img src= {`images/${writer.avatar}.png`} height="300px" width="300px" alt={writer.img}/>
+
+
+    <div className='card'>
+    <img src= {`images/${writer.avatar}.png`}
+     height="300px" width="300px" alt={writer.img}/>
     
     <div className='textGroup'>
     <h3>{writer.name}</h3>
