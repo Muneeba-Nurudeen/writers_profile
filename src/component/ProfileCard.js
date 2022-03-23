@@ -1,6 +1,6 @@
 import React from 'react'
-
 import{useState} from "react"
+
 function ProfileCard({writer}) {
 const [showBio, setShowBio] = useState(false);
 
